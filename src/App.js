@@ -5,7 +5,7 @@ import Main from "./containers/Main";
 function App() {
   return (
     <div>
-      // new line added
+      {/* new line added test */}
       <Main />
     </div>
   );
